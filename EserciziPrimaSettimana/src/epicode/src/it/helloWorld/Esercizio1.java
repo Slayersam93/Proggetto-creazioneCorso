@@ -26,7 +26,8 @@ public class Esercizio1 {
 
 		System.out.println(Arrays.toString(nuoveFrasi));
 	}
-
+//commento prova 
+	
 	public static String[] inserisci(String[] original, String aggiunta , int pos) {
 		String[] nuoveStringhe = new String[original.length + 1];
 		/*
