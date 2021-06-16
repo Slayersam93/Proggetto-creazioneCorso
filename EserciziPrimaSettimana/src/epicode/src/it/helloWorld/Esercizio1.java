@@ -28,6 +28,8 @@ public class Esercizio1 {
 	}
 //commento prova 
 	
+// SECONDO COMMENTO DI PROVA
+	
 	public static String[] inserisci(String[] original, String aggiunta , int pos) {
 		String[] nuoveStringhe = new String[original.length + 1];
 		/*
